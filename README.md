@@ -15,6 +15,6 @@ This repository contains a collection of production-ready Python scripts and Jup
 To demonstrate full-lifecycle competence in data governance and advanced analytics, I manage my portfolio milestones and active engineering sprints through a centralized **GitHub Project Board**. This tracking system bridges the gap between structured relational data modeling and dynamic executive reporting.
 
 ### 🗺️ Live Production Tracking Board
-> [**View My Live Project Workspace & Technical Sprints ↗**](https://github.com//tifkel2004-rgb)
+> [**View My Live Project Workspace & Technical Sprints ↗**](https://github.com/users/tifkel2004-rgb/projects/1/views/1)
 *Click the link above to inspect my active project columns, operational lifecycles, and tool metadata tracking panels.*
 
