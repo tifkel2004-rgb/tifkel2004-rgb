@@ -9,3 +9,12 @@ This repository contains a collection of production-ready Python scripts and Jup
 * **Anomaly Isolation & Feature Checking:** Built conditional check scripts to evaluate sample distributions, spot data concentrations, and automatically flag metrics or outliers that look out of place.
 * **Query Performance Optimization:** Restructured script execution paths by replacing repetitive, slow data loops with direct conditional filtering rules, significantly accelerating file processing speeds.
 * **Business Intelligence Translation:** Formatted clean data arrays optimized for seamless ingestion into relational databases (SQL/SQLite) and interactive data visualizations (Tableau Cloud) to support operational decision-making.
+
+## 📊 Featured Project Pipeline: Enterprise Workforce Insights
+
+To demonstrate full-lifecycle competence in data governance and advanced analytics, I manage my portfolio milestones and active engineering sprints through a centralized **GitHub Project Board**. This tracking system bridges the gap between structured relational data modeling and dynamic executive reporting.
+
+### 🗺️ Live Production Tracking Board
+> [**View My Live Project Workspace & Technical Sprints ↗**](https://github.com)
+*Click the link above to inspect my active project columns, operational lifecycles, and tool metadata tracking panels.*
+
